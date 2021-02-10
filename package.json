@@ -35,7 +35,7 @@
     "author": "Andi Dittrich (https://andidittrich.com)",
     "license": "MIT",
     "dependencies": {
-        "colors": "^1.1.2",
+        "colors.ts": "aspectron/colors.ts",
         "string-width": "^4.2.0"
     },
     "devDependencies": {
